@@ -112,7 +112,6 @@ a {
 }
 
 .hotel-background {
-	background-image: url();
 	position: absolute;
 	width: 1440px;
 	height: 464px;
@@ -121,7 +120,7 @@ a {
 }
 
 .group-24 {
-	background-image: url(../img/group-24.png);
+	background-image: url(group-24.png);
 	position: absolute;
 	width: 55px;
 	height: 55px;
@@ -352,7 +351,7 @@ a {
 	height: 47px;
 	text-decoration: none;
 	background-color: #ff7931;
-	background-image: url(../img/shape.svg);
+	background-image: url(shape.svg);
 	background-repeat: no-repeat;
 	background-position: 121px 15px;
 }
@@ -369,7 +368,6 @@ a {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	color: #ffffff;
-	
 	margin: 0;
 	padding: 0;
 }
@@ -448,7 +446,7 @@ a {
 }
 
 .social-instagram {
-	background-image: url(../img/icons_2.svg);
+	background-image: url(icons_2.svg);
 	background-repeat: no-repeat;
 	background-position: 12px 12px;
 	background-size: 23px 24px;
@@ -458,7 +456,7 @@ a {
 }
 
 .social-facebook {
-	background-image: url(../img/facebook_icon.svg);
+	background-image: url(facebook_icon.svg);
 	background-repeat: no-repeat;
 	background-position: 17px 13px;
 	background-size: 12px 22px;
@@ -468,7 +466,7 @@ a {
 }
 
 .social-twitter {
-	background-image: url(../img/twitter_icon.svg);
+	background-image: url(twitter_icon.svg);
 	background-repeat: no-repeat;
 	background-position: 12px 15px;
 	background-size: 22px 18px;
